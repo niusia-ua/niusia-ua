@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**niusia-ua/niusia-ua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nazar Antoniuk, a software developer from Kharkiv, Ukraine. 🇺🇦
 
-Here are some ideas to get you started:
+I specialize in Rust programming, while also working with other languages and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You're visiting my GitHub profile, where I work on my personal projects and contribute to open-source projects. 🧑‍💻
+
+Also, I have a [personal website], where I will likely share content related to my work experience. ✨
+
+You can learn more about me on [LinkedIn].
+
+Feel free to contact me through [email], [LinkedIn], or [Telegram].
+
+[personal website]: https://niusia.me
+[email]: mailto:nazarantoniuk18@gmail.com
+[LinkedIn]: https://linkedin.com/in/niusia
+[Telegram]: https://t.me/niusia_ua
