@@ -15,7 +15,7 @@ I specialize in Rust programming, while also working with other languages and te
 
 ## Technologies 💻
 
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=CE412B)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=CE412B)
 ![Tauri](https://img.shields.io/badge/Tauri-000000?style=flat-square&logo=tauri&logoColor=24C8D8)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
