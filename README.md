@@ -36,7 +36,7 @@ I specialize in Rust programming, while also working with other languages and te
 
 ## Projects ✨
 
-### [Embroidery Studio](https://github.com/niusia-ua/embroidery-studio)
+### [Embroidery Studio](https://github.com/embroidery-space/embroidery-studio)
 
 **Technologies:** Rust, Tauri, TypeScript, Vue.js.
 
